@@ -9,3 +9,4 @@ import { usersReducer } from "./slices/usersSlice";
 })
 
 export * from './thunks/fetchUser'
+export * from './thunks/addUser'

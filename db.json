@@ -1,7 +1,22 @@
 {
-    "users": [
-        {"id":1, "name":"Myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ramona Hoppe",
+      "id": 2
+    },
+    {
+      "name": "Roman Hodkiewicz",
+      "id": 3
+    },
+    {
+      "name": "Willie Smitham V",
+      "id": 4
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
