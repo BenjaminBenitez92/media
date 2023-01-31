@@ -1,20 +1,32 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Grady Gutmann",
+      "id": 1
     },
     {
-      "name": "Ramona Hoppe",
+      "name": "Delores Bechtelar",
       "id": 2
     },
     {
-      "name": "Roman Hodkiewicz",
+      "name": "Jamie Goyette",
       "id": 3
     },
     {
-      "name": "Willie Smitham V",
+      "name": "Sabrina Terry",
       "id": 4
+    },
+    {
+      "name": "Patty Halvorson",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Maggie Veum",
+      "id": 6
+    },
+    {
+      "name": "Delores Effertz",
+      "id": 7
     }
   ],
   "albums": [],
