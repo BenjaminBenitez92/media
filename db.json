@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "name": "Grady Gutmann",
-      "id": 1
-    },
-    {
-      "name": "Delores Bechtelar",
-      "id": 2
-    },
-    {
       "name": "Jamie Goyette",
       "id": 3
     },
@@ -27,8 +19,72 @@
     {
       "name": "Delores Effertz",
       "id": 7
+    },
+    {
+      "name": "Bertha Klocko",
+      "id": 8
+    },
+    {
+      "name": "Jody Barrows",
+      "id": 9
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Electronic Fresh Keyboard",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "title": "Small Steel Fish",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Wooden Soap",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Bronze Chair",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Plastic Table",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Soft Table",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Granite Keyboard",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Steel Mouse",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Fresh Pizza",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Oriental Granite Keyboard",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Frozen Tuna",
+      "id": 11
+    }
+  ],
   "photos": []
 }
